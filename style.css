@@ -3,32 +3,32 @@ background: #FFD966;
 margin: 0;
 }
 
-#container { 
+#container {
 width: 780px;
 margin: 0 auto;
 background: #FFFFFF;
 }
 
-#header { 
+#header {
 padding: 20px 0 20px 40px;
-} 
+}
 
 #header a {
 color: #000000;
 text-decoration: none;
-font-size: 30px; 
+font-size: 30px;
 font-family: "Myriad Pro", "Arial Narrow";
 }
 
 #menu {
-background-color: #FFD966; 
+background-color: #FFD966;
 padding: 6px 0 6px 40px;
 }
 
 #menu a {
 color: #000000;
-text-decoration: none; 
-font-size: 20px; 
+text-decoration: none;
+font-size: 20px;
 font-family: "Arial Narrow", "Myriad Pro";
 }
 
@@ -45,38 +45,38 @@ margin: 0;
 
 h1 {
 margin: 0px;
-color: #000000; 
-font-size:24px; 
-font-family: "Arial Narrow", "Myriad Pro"; 
+color: #000000;
+font-size:24px;
+font-family: "Arial Narrow", "Myriad Pro";
 font-weight: normal;
 }
 
 h2 {
 color: #000000;
-font-size: 18px; 
+font-size: 20px; 
 margin: 20px 0 5px 0;
-font-family: "Arial Narrow", "Myriad Pro"; 
+font-family: "Georgia";
 }
 
 h3 {
 color: #000000;
-font-size: 15px; 
+font-size: 15px;
 margin: 20px 0 5px 0;
 font-family: "Georgia";
 }
 
-#main { 
+#main {
 margin: 0 0 0 180px;
 padding: 35px 40px 30px 0;
 color: #000000;
 font-family: "Georgia";
-font-size: 15px; 
+font-size: 15px;
 line-height: 18px;
 text-align: justify;
-} 
+}
 
 #main a {
-color: #000000; 
+color: #000000;
 text-decoration: none;
 }
 
@@ -94,18 +94,18 @@ color: #009900;
   text-decoration: underline;
 }
 
-#main2 { 
+#main2 {
 margin: 0 0 0 0px;
 padding: 35px 40px 30px 0;
 color: #000000;
 font-family: "Georgia";
-font-size: 13px; 
+font-size: 13px;
 line-height: 18px;
 text-align: justify;
-} 
+}
 
 #main2 a {
-color: #000000; 
+color: #000000;
 text-decoration: none;
 }
 
@@ -125,7 +125,7 @@ color: #009900;
 
 #footer {
 padding: 6px 40px 6px 40px;
-background: #009900; 
+background: #009900;
 font-family: "Lucida Sans Unicode";
 color: #000000;
 font-size: 11px;
@@ -133,7 +133,7 @@ text-align: right;
 }
 
 #footer a {
-text-decoration: none; 
+text-decoration: none;
 color: #262626;
 }
 
